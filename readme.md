@@ -3,11 +3,11 @@
 
 1. Arrays & Hashing:
    - [x] Contains Duplicate:
-     - [LeetCode]()
+     - [LeetCode](https://leetcode.com/problems/contains-duplicate/description/)
      - [Solution]()
    - [x] Valid Anagram:
-     - [LeetCode]()
+     - [LeetCode](https://leetcode.com/problems/valid-anagram/description/)
      - [Solution]()
    - [ ] Two Sum:
-     - [LeetCode]()
+     - [LeetCode](https://leetcode.com/problems/two-sum/description/)
      - [Solution]()

@@ -3,10 +3,10 @@ package arrays_hashing
 import kotlin.test.Test
 import kotlin.test.assertTrue
 
-class ValidAnagramTest {
+class ValidAnagramSolutionTest {
 
     @Test
-    fun is_valid_anagram() {
+    fun isValidAnagramTestCase() {
         val solution = ValidAnagramSolution()
         assertTrue(solution.isAnagram("anagram", "nagaram"))
     }

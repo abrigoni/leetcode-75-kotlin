@@ -4,7 +4,7 @@ import kotlin.test.Test
 import kotlin.test.assertFalse
 import kotlin.test.assertTrue
 
-class ContainsDuplicateTest {
+class ContainsDuplicateSolutionTest {
     @Test
     fun test_duplicate_true() {
         val solution = ContainsDuplicateSolution()

@@ -8,6 +8,6 @@
    - [x] Valid Anagram:
      - [LeetCode](https://leetcode.com/problems/valid-anagram/description/)
      - [Solution]()
-   - [ ] Two Sum:
+   - [x] Two Sum:
      - [LeetCode](https://leetcode.com/problems/two-sum/description/)
      - [Solution]()

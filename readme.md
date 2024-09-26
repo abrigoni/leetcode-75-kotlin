@@ -12,5 +12,5 @@
      - [LeetCode](https://leetcode.com/problems/two-sum/description/)
      - [Solution](src/main/kotlin/arrays_hashing/TwoSumSolution.kt)
    - [x] Group Anagrams:
-       - [LeetCode](https://leetcode.com/problems/group-anagrams/)
-       - [Solution](src/main/kotlin/arrays_hashing/GroupAnagramsSolution.kt)
+     - [LeetCode](https://leetcode.com/problems/group-anagrams/)
+     - [Solution](src/main/kotlin/arrays_hashing/GroupAnagramsSolution.kt)

@@ -8,10 +8,10 @@ class ValidPalindromeSolution {
         var r = s.indices.last
 
         while (l < r) {
-            while (l < r && !s[l].isLetter()) {
+            while (l < r && !s[l].isLetterOrDigit()) {
                 l++
             }
-            while (r > l && !s[r].isLetter()) {
+            while (r > l && !s[r].isLetterOrDigit()) {
                 r--
             }
             if (s[l].lowercaseChar() != s[r].lowercaseChar()) {

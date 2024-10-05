@@ -18,3 +18,6 @@
    - [x] Valid Palindrome
      - [LeetCode](https://leetcode.com/problems/valid-palindrome/)
      - [Solution](src/main/kotlin/two_pointers/ValidPalindromeSolution.kt)
+   - [x] Three Sum
+     - [LeetCode](https://leetcode.com/problems/3sum/)
+     - [Solution](src/main/kotlin/two_pointers/ThreeSum.kt)
